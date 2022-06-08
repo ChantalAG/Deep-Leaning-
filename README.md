@@ -32,15 +32,16 @@ The same parameters and training steps were used for each model.
 * epochs = 20
 * batch size = 1
 * dropout_fraction = 0.2
-* number_units = .2
+* number_units = 30
 
 ### Evaluate the performance of each model
 * The testing data was used to evaluate each model and compare the performance.
 
 ## Findings
-Which model has a lower loss?
-Which model tracks the actual values better over time?
-Which window size works best for the model?
+#### Which model has a lower loss?
+
+#### Which model tracks the actual values better over time?
+#### Which window size works best for the model?
 
 ## Contributors
 Chantal Garnett
