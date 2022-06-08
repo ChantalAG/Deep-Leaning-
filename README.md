@@ -45,9 +45,13 @@ The same parameters and training steps were used for each model.
 
 ## Findings
 #### Which model has a lower loss?
+The closing price model had a lower loss, it was better able to predict the expected outcome when compared to the FNG predictor. 
 
 #### Which model tracks the actual values better over time?
+The closing price model tracks the actual values better over time. 
+
 #### Which window size works best for the model?
+It was found that a window size of 10 worked best for the model. 
 
 ## Contributors
 Chantal Garnett
