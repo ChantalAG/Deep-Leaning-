@@ -24,10 +24,15 @@ In this notebook, a custom LSTM RNN was built and trained that uses a 10 day win
 ### Prepare the data for training and testing
 * Each model will use 70% of the data for training and 30% of the data for testing.
 * MinMaxScaler was applied to the X and y values to scale the data for the model.
-* Reshape the X_train and X_test values to fit the model's requirement of samples, time steps, and features. (example: X_train = X_train.reshape((X_train.shape[0], X_train.shape[1], 1)))
+* The X_train and X_test values were reshaped to fit the model's requirement of samples, time steps, and features. 
+    
 
 ### Build and train custom LSTM RNNs
-* The same parameters and training steps were used for each model.
+The same parameters and training steps were used for each model.
+* epochs = 20
+* batch size = 1
+* dropout_fraction = 0.2
+* number_units = .2
 
 ### Evaluate the performance of each model
 * The testing data was used to evaluate each model and compare the performance.
