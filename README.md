@@ -16,7 +16,7 @@ LSTM Stock Predictor Using Fear and Greed Index:
 
 In this notebook, a custom LSTM RNN was built and trained that uses a 10 day window of Bitcoin fear and greed index values to predict the 11th day closing price.
 
-LSTM Stock Predictor Using Closing Prices:
+[LSTM Stock Predictor Using Closing Prices:](https://github.com/ChantalAG/Deep-Leaning-/blob/main/lstm_stock_predictor_closing.ipynb)
 
 In this notebook, a custom LSTM RNN was built and trained that uses a 10 day window of Bitcoin closing prices to predict the 11th day closing price.
 
