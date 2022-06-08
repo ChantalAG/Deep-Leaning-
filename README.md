@@ -36,8 +36,11 @@ The same parameters and training steps were used for each model.
 
 ### Evaluate the performance of each model
 * The testing data was used to evaluate each model and compare the performance.
+* The first graph shows the prediction using the FNG index and the second graph uses the closing price. 
 
+![image](https://user-images.githubusercontent.com/99493522/172665230-59146cb4-a08e-410d-91fe-366acf63af82.png)
 ![image](https://user-images.githubusercontent.com/99493522/172665067-3abacb6a-1fb1-4b7d-8008-43fc1e5114ec.png)
+
 
 
 ## Findings
